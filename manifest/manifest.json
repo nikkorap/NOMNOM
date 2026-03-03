@@ -94,7 +94,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 587
+    "downloadCount": 588
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -167,7 +167,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 242
+    "downloadCount": 245
   },
   {
     "id": "galaxy2_voice",
@@ -1258,7 +1258,7 @@
         ]
       }
     ],
-    "downloadCount": 3739
+    "downloadCount": 3743
   },
   {
     "id": "no-autopilot-mod",
@@ -1498,7 +1498,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 2621
+    "downloadCount": 2625
   },
   {
     "id": "NOBlackBox",
@@ -1866,7 +1866,7 @@
         ]
       }
     ],
-    "downloadCount": 1048
+    "downloadCount": 1052
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -2115,7 +2115,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-SmokeTrail/releases/download/v2.1.0/SmokeTrail.dll"
       }
     ],
-    "downloadCount": 52
+    "downloadCount": 53
   },
   {
     "id": "UnitCopyPaste",
@@ -2186,7 +2186,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 400
+    "downloadCount": 403
   },
   {
     "id": "WeatherController",
