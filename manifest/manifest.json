@@ -30,7 +30,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 275
+    "downloadCount": 277
   },
   {
     "id": "AircraftWaypoints",
@@ -167,7 +167,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 260
+    "downloadCount": 263
   },
   {
     "id": "galaxy2_voice",
@@ -335,7 +335,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 676
+    "downloadCount": 678
   },
   {
     "id": "LiveryManager",
@@ -1258,7 +1258,7 @@
         ]
       }
     ],
-    "downloadCount": 3770
+    "downloadCount": 3771
   },
   {
     "id": "no-autopilot-mod",
@@ -1498,7 +1498,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 2646
+    "downloadCount": 2647
   },
   {
     "id": "NOBlackBox",
@@ -1866,7 +1866,7 @@
         ]
       }
     ],
-    "downloadCount": 1062
+    "downloadCount": 1065
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -1917,7 +1917,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 450
+    "downloadCount": 451
   },
   {
     "id": "pixy_voice",
@@ -2049,7 +2049,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 116665
+    "downloadCount": 116666
   },
   {
     "id": "skyeye_voice",
@@ -2186,7 +2186,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 408
+    "downloadCount": 410
   },
   {
     "id": "WeatherController",
