@@ -30,7 +30,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 278
+    "downloadCount": 279
   },
   {
     "id": "AircraftWaypoints",
@@ -94,7 +94,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 595
+    "downloadCount": 596
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -167,7 +167,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 264
+    "downloadCount": 265
   },
   {
     "id": "galaxy2_voice",
@@ -335,7 +335,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 679
+    "downloadCount": 680
   },
   {
     "id": "LiveryManager",
@@ -1258,7 +1258,7 @@
         ]
       }
     ],
-    "downloadCount": 3783
+    "downloadCount": 3784
   },
   {
     "id": "no-autopilot-mod",
@@ -1866,7 +1866,7 @@
         ]
       }
     ],
-    "downloadCount": 1069
+    "downloadCount": 1070
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -2186,7 +2186,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 416
+    "downloadCount": 417
   },
   {
     "id": "WeatherController",
@@ -2217,7 +2217,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-WeatherController/releases/download/v3.0.0/WeatherController_v3.0.0.zip"
       }
     ],
-    "downloadCount": 55
+    "downloadCount": 56
   },
   {
     "id": "WSOYappinator",
