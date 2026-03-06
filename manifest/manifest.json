@@ -335,7 +335,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 714
+    "downloadCount": 715
   },
   {
     "id": "LiveryManager",
@@ -1258,7 +1258,7 @@
         ]
       }
     ],
-    "downloadCount": 3917
+    "downloadCount": 3918
   },
   {
     "id": "no-autopilot-mod",
@@ -1498,7 +1498,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 2777
+    "downloadCount": 2779
   },
   {
     "id": "NOBlackBox",
@@ -1552,7 +1552,7 @@
         ]
       }
     ],
-    "downloadCount": 2016
+    "downloadCount": 2017
   },
   {
     "id": "NOCursorOverride",
@@ -2049,7 +2049,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 116759
+    "downloadCount": 116762
   },
   {
     "id": "skyeye_voice",
@@ -2115,7 +2115,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-SmokeTrail/releases/download/v2.1.0/SmokeTrail.dll"
       }
     ],
-    "downloadCount": 63
+    "downloadCount": 64
   },
   {
     "id": "UnitCopyPaste",
