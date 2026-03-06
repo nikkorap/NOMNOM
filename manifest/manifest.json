@@ -167,7 +167,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 326
+    "downloadCount": 327
   },
   {
     "id": "galaxy2_voice",
@@ -1498,7 +1498,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 2757
+    "downloadCount": 2758
   },
   {
     "id": "NOBlackBox",
@@ -2115,7 +2115,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-SmokeTrail/releases/download/v2.1.0/SmokeTrail.dll"
       }
     ],
-    "downloadCount": 62
+    "downloadCount": 63
   },
   {
     "id": "UnitCopyPaste",
@@ -2250,7 +2250,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 777
+    "downloadCount": 778
   },
   {
     "id": "YawOnMouse",
