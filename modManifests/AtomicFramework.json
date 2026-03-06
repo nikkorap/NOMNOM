@@ -1,7 +1,7 @@
 {
   "id": "AtomicFramework",
   "displayName": "AtomicFramework",
-  "description": "Modding framework and utilities for Nuclear Option",
+  "description": "Modding framework and utilities for Nuclear Option. Note: The NOMNOM compatible version has some features removed.",
   "tags": [
     "mod",
     "QoL",
