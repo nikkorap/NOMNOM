@@ -135,7 +135,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 650
+    "downloadCount": 651
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -208,7 +208,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 379
+    "downloadCount": 380
   },
   {
     "id": "galaxy2_voice",
@@ -376,7 +376,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 741
+    "downloadCount": 742
   },
   {
     "id": "LiveryManager",
@@ -808,7 +808,7 @@
         ]
       }
     ],
-    "downloadCount": 140
+    "downloadCount": 141
   },
   {
     "id": "LocalizationPatch.Russian",
@@ -967,7 +967,7 @@
         ]
       }
     ],
-    "downloadCount": 201
+    "downloadCount": 202
   },
   {
     "id": "LocalizationPatch.Spanish",
@@ -1299,7 +1299,7 @@
         ]
       }
     ],
-    "downloadCount": 4009
+    "downloadCount": 4011
   },
   {
     "id": "no-autopilot-mod",
@@ -1539,7 +1539,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 2848
+    "downloadCount": 2849
   },
   {
     "id": "NOBlackBox",
@@ -1907,7 +1907,7 @@
         ]
       }
     ],
-    "downloadCount": 1152
+    "downloadCount": 1153
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
