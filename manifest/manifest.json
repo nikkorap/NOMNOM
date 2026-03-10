@@ -208,7 +208,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 455
+    "downloadCount": 456
   },
   {
     "id": "galaxy2_voice",
@@ -1130,7 +1130,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-CustomMapLoader/releases/download/v3.0.0/MapLoader_v3.0.0.zip"
       }
     ],
-    "downloadCount": 86
+    "downloadCount": 87
   },
   {
     "id": "MFDVideoPlayer",
@@ -1593,7 +1593,7 @@
         ]
       }
     ],
-    "downloadCount": 2086
+    "downloadCount": 2089
   },
   {
     "id": "NOCursorOverride",
@@ -2172,7 +2172,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 116907
+    "downloadCount": 116908
   },
   {
     "id": "skyeye_voice",
@@ -2309,7 +2309,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 534
+    "downloadCount": 536
   },
   {
     "id": "WeatherController",
@@ -2340,7 +2340,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-WeatherController/releases/download/v3.0.0/WeatherController_v3.0.0.zip"
       }
     ],
-    "downloadCount": 94
+    "downloadCount": 95
   },
   {
     "id": "WSOYappinator",
