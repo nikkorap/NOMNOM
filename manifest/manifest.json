@@ -30,7 +30,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 373
+    "downloadCount": 375
   },
   {
     "id": "AircraftWaypoints",
@@ -62,7 +62,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-AircraftWaypoints/releases/download/v2.1.0/AircraftWaypoints.zip"
       }
     ],
-    "downloadCount": 146
+    "downloadCount": 148
   },
   {
     "id": "AtomicFramework",
@@ -135,7 +135,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 689
+    "downloadCount": 690
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -376,7 +376,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 783
+    "downloadCount": 784
   },
   {
     "id": "LiveryManager",
@@ -544,7 +544,7 @@
         ]
       }
     ],
-    "downloadCount": 167
+    "downloadCount": 168
   },
   {
     "id": "LocalizationPatch.German",
@@ -676,7 +676,7 @@
         ]
       }
     ],
-    "downloadCount": 165
+    "downloadCount": 167
   },
   {
     "id": "LocalizationPatch.Korean",
@@ -808,7 +808,7 @@
         ]
       }
     ],
-    "downloadCount": 152
+    "downloadCount": 154
   },
   {
     "id": "LocalizationPatch.Russian",
@@ -1130,7 +1130,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-CustomMapLoader/releases/download/v3.0.0/MapLoader_v3.0.0.zip"
       }
     ],
-    "downloadCount": 92
+    "downloadCount": 93
   },
   {
     "id": "MFDVideoPlayer",
@@ -1299,7 +1299,7 @@
         ]
       }
     ],
-    "downloadCount": 4149
+    "downloadCount": 4151
   },
   {
     "id": "no-autopilot-mod",
@@ -1539,7 +1539,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 2977
+    "downloadCount": 2979
   },
   {
     "id": "NOBlackBox",
@@ -1593,7 +1593,7 @@
         ]
       }
     ],
-    "downloadCount": 2095
+    "downloadCount": 2096
   },
   {
     "id": "NOCursorOverride",
@@ -1625,7 +1625,7 @@
         "hash": "sha256:bac8d3d0cdfbc9c77edc4a99994eb5e660641a9c9096018a700e783e19cec0e9"
       }
     ],
-    "downloadCount": 227
+    "downloadCount": 230
   },
   {
     "id": "NOFFB",
@@ -1718,7 +1718,7 @@
         ]
       }
     ],
-    "downloadCount": 538
+    "downloadCount": 539
   },
   {
     "id": "NOLiveryPlus",
@@ -1958,7 +1958,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 512
+    "downloadCount": 513
   },
   {
     "id": "NuclearVOIP",
@@ -2172,7 +2172,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 116924
+    "downloadCount": 116925
   },
   {
     "id": "skyeye_voice",
@@ -2373,7 +2373,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 829
+    "downloadCount": 830
   },
   {
     "id": "YawOnMouse",
