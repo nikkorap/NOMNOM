@@ -30,7 +30,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 382
+    "downloadCount": 383
   },
   {
     "id": "AircraftWaypoints",
@@ -62,7 +62,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-AircraftWaypoints/releases/download/v2.1.0/AircraftWaypoints.zip"
       }
     ],
-    "downloadCount": 152
+    "downloadCount": 153
   },
   {
     "id": "AtomicFramework",
@@ -135,7 +135,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 690
+    "downloadCount": 691
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -376,7 +376,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 789
+    "downloadCount": 790
   },
   {
     "id": "LiveryManager",
@@ -967,7 +967,7 @@
         ]
       }
     ],
-    "downloadCount": 213
+    "downloadCount": 214
   },
   {
     "id": "LocalizationPatch.Spanish",
@@ -1299,7 +1299,7 @@
         ]
       }
     ],
-    "downloadCount": 4162
+    "downloadCount": 4167
   },
   {
     "id": "no-autopilot-mod",
@@ -1539,7 +1539,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 2996
+    "downloadCount": 2998
   },
   {
     "id": "NOBlackBox",
@@ -1718,7 +1718,7 @@
         ]
       }
     ],
-    "downloadCount": 545
+    "downloadCount": 546
   },
   {
     "id": "NOLiveryPlus",
@@ -1907,7 +1907,7 @@
         ]
       }
     ],
-    "downloadCount": 1231
+    "downloadCount": 1232
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -2108,7 +2108,7 @@
         ]
       }
     ],
-    "downloadCount": 185
+    "downloadCount": 188
   },
   {
     "id": "RepairProgress",
@@ -2172,7 +2172,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 116938
+    "downloadCount": 116940
   },
   {
     "id": "skyeye_voice",
@@ -2348,7 +2348,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 550
+    "downloadCount": 552
   },
   {
     "id": "WeatherController",
