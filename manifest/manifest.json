@@ -1434,7 +1434,7 @@
         ]
       }
     ],
-    "downloadCount": 4187
+    "downloadCount": 4189
   },
   {
     "id": "no-autopilot-mod",
@@ -1674,7 +1674,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 3014
+    "downloadCount": 3015
   },
   {
     "id": "NOBlackBox",
@@ -2243,7 +2243,7 @@
         ]
       }
     ],
-    "downloadCount": 199
+    "downloadCount": 201
   },
   {
     "id": "RepairProgress",
@@ -2483,7 +2483,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 557
+    "downloadCount": 558
   },
   {
     "id": "WeatherController",
