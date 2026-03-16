@@ -30,7 +30,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 420
+    "downloadCount": 421
   },
   {
     "id": "AircraftWaypoints",
@@ -208,7 +208,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 547
+    "downloadCount": 548
   },
   {
     "id": "galaxy2_voice",
@@ -376,7 +376,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 833
+    "downloadCount": 834
   },
   {
     "id": "LiveryManager",
@@ -1728,7 +1728,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-MFDVideoPlayer/releases/download/v2.0.0/MFDVideoPlayer.dll"
       }
     ],
-    "downloadCount": 174
+    "downloadCount": 175
   },
   {
     "id": "NO_Tactitools",
@@ -1866,7 +1866,7 @@
         ]
       }
     ],
-    "downloadCount": 4309
+    "downloadCount": 4316
   },
   {
     "id": "no-autopilot-mod",
@@ -2106,7 +2106,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 3110
+    "downloadCount": 3114
   },
   {
     "id": "NOBlackBox",
@@ -2160,7 +2160,7 @@
         ]
       }
     ],
-    "downloadCount": 2125
+    "downloadCount": 2127
   },
   {
     "id": "NOCursorOverride",
@@ -2285,7 +2285,7 @@
         ]
       }
     ],
-    "downloadCount": 568
+    "downloadCount": 569
   },
   {
     "id": "NOLiveryPlus",
@@ -2675,7 +2675,7 @@
         ]
       }
     ],
-    "downloadCount": 295
+    "downloadCount": 299
   },
   {
     "id": "RepairProgress",
@@ -2739,7 +2739,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 117018
+    "downloadCount": 117021
   },
   {
     "id": "skyeye_voice",
@@ -2805,7 +2805,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-SmokeTrail/releases/download/v2.1.0/SmokeTrail.dll"
       }
     ],
-    "downloadCount": 95
+    "downloadCount": 96
   },
   {
     "id": "ThirdFaction",
@@ -2844,7 +2844,7 @@
         "downloadUrl": "https://github.com/9138noms/ThirdFaction/releases/download/v1.0.0/ThirdFaction.dll"
       }
     ],
-    "downloadCount": 57
+    "downloadCount": 59
   },
   {
     "id": "UnitCopyPaste",
