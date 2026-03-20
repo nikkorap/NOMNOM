@@ -30,7 +30,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 443
+    "downloadCount": 444
   },
   {
     "id": "AircraftWaypoints",
@@ -208,7 +208,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 597
+    "downloadCount": 598
   },
   {
     "id": "galaxy2_voice",
@@ -2001,7 +2001,7 @@
         ]
       }
     ],
-    "downloadCount": 4402
+    "downloadCount": 4404
   },
   {
     "id": "no-autopilot-mod",
@@ -2241,7 +2241,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 3190
+    "downloadCount": 3192
   },
   {
     "id": "NOBlackBox",
@@ -2609,7 +2609,7 @@
         ]
       }
     ],
-    "downloadCount": 1318
+    "downloadCount": 1320
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -2949,7 +2949,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-SmokeTrail/releases/download/v2.1.0/SmokeTrail.dll"
       }
     ],
-    "downloadCount": 105
+    "downloadCount": 106
   },
   {
     "id": "ThirdFaction",
