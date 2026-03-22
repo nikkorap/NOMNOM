@@ -210,7 +210,7 @@
         }
       }
     ],
-    "downloadCount": 127
+    "downloadCount": 129
   },
   {
     "id": "com.nikkorap.blueprinter",
@@ -255,7 +255,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 127
+    "downloadCount": 129
   },
   {
     "id": "FrontlineMap",
@@ -295,7 +295,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 610
+    "downloadCount": 611
   },
   {
     "id": "galaxy2_voice",
@@ -2103,7 +2103,7 @@
         ]
       }
     ],
-    "downloadCount": 4446
+    "downloadCount": 4447
   },
   {
     "id": "no-autopilot-mod",
