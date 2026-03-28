@@ -135,7 +135,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 815
+    "downloadCount": 817
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -210,7 +210,7 @@
         }
       }
     ],
-    "downloadCount": 653
+    "downloadCount": 657
   },
   {
     "id": "com.nikkorap.blueprinter",
@@ -255,7 +255,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 653
+    "downloadCount": 657
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -2136,7 +2136,7 @@
         ]
       }
     ],
-    "downloadCount": 4631
+    "downloadCount": 4632
   },
   {
     "id": "no-autopilot-mod",
@@ -2376,7 +2376,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 3396
+    "downloadCount": 3398
   },
   {
     "id": "NOBlackBox",
@@ -2555,7 +2555,7 @@
         ]
       }
     ],
-    "downloadCount": 621
+    "downloadCount": 622
   },
   {
     "id": "NOLiveryPlus",
@@ -2744,7 +2744,7 @@
         ]
       }
     ],
-    "downloadCount": 1431
+    "downloadCount": 1433
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -2945,7 +2945,7 @@
         ]
       }
     ],
-    "downloadCount": 603
+    "downloadCount": 606
   },
   {
     "id": "RepairProgress",
@@ -3009,7 +3009,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 117319
+    "downloadCount": 117323
   },
   {
     "id": "skyeye_voice",
@@ -3168,7 +3168,7 @@
         "downloadUrl": "https://github.com/9138noms/ThirdFaction/releases/download/v1.0.0/ThirdFaction.dll"
       }
     ],
-    "downloadCount": 138
+    "downloadCount": 139
   },
   {
     "id": "UnitCopyPaste",
@@ -3208,7 +3208,7 @@
         "downloadUrl": "https://github.com/9138noms/UnitCopyPaste/releases/download/v1.0.0/UnitCopyPaste.dll"
       }
     ],
-    "downloadCount": 80
+    "downloadCount": 81
   },
   {
     "id": "VehicleControl",
@@ -3239,7 +3239,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 752
+    "downloadCount": 754
   },
   {
     "id": "WeatherController",
