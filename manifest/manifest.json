@@ -38,7 +38,7 @@
         }
       }
     ],
-    "downloadCount": 43
+    "downloadCount": 45
   },
   {
     "id": "AIAircraftLimit",
@@ -251,7 +251,7 @@
         }
       }
     ],
-    "downloadCount": 1216
+    "downloadCount": 1220
   },
   {
     "id": "CargoHookFree",
@@ -283,7 +283,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 13
+    "downloadCount": 14
   },
   {
     "id": "com.nikkorap.blueprinter",
@@ -337,7 +337,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 1216
+    "downloadCount": 1220
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -410,7 +410,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 908
+    "downloadCount": 909
   },
   {
     "id": "galaxy2_voice",
@@ -2892,7 +2892,7 @@
         ]
       }
     ],
-    "downloadCount": 1526
+    "downloadCount": 1527
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -3093,7 +3093,7 @@
         ]
       }
     ],
-    "downloadCount": 824
+    "downloadCount": 825
   },
   {
     "id": "RepairProgress",
@@ -3157,7 +3157,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 117513
+    "downloadCount": 117516
   },
   {
     "id": "skyeye_voice",
