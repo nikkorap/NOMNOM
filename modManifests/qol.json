@@ -21,7 +21,7 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
-        "fileName": "qol_1.1.6.3b2.zip",
+        "fileName": "qol_1.1.6.3b2.dll",
         "version": "1.1.6.3.2",
         "category": "release",
         "type": "plugin",
