@@ -20,6 +20,15 @@
   "artifacts": [
     {
       "fileName": "FrontlineMap.dll",
+      "version": "1.4.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.4.0/FrontlineMap.dll",
+      "hash": null
+    },
+    {
+      "fileName": "FrontlineMap.dll",
       "version": "1.3.1",
       "category": "release",
       "type": "plugin",
@@ -45,5 +54,5 @@
       "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
     }
   ],
-  "downloadCount": 1297
+  "downloadCount": 1301
 }
