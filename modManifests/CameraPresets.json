@@ -1,0 +1,33 @@
+{
+  "id": "CameraPresets",
+  "displayName": "Camera Presets",
+  "description": "save and load presets of the advanced camera controls menu",
+  "tags": [
+    "mod",
+    "qol"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/nikkorap/NOCameraPresets/"
+    }
+  ],
+  "authors": [
+    "nikkorap"
+  ],
+  "githubOwner": "nikkorap",
+  "githubRepoName": "NOCameraPresets",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "camerapresets_1.0.0.dll",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/nikkorap/NOCameraPresets/releases/download/1.0.0/camerapresets_1.0.0.dll",
+      "hash": null
+    }
+  ],
+  "downloadCount": 0
+}
